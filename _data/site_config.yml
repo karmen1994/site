@@ -81,7 +81,7 @@ frontpage_cards:
     rule_color: ''
   - title: Prueba
     content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
+      Prueba ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
       cursus est sed dapibus.
     include: ''
     button_label: Read more
