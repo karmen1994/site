@@ -83,7 +83,7 @@ frontpage_cards:
     content: |
       Texto de prueba
     include: ''
-    button_label: leer ms
+    button_label: leer mas
     button_link: 'https://example.com'
     rule_color: ''
   - title: Nam vestibulum
