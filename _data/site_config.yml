@@ -79,7 +79,7 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
+  - title: Prueba
     content: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
       cursus est sed dapibus.
