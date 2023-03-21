@@ -192,7 +192,7 @@ menu:
     translation_key: menu.updates
     dropdown: []
   - path: prueba/
-    translation_key: My meni item
+    translation_key: prueba
 metadata_edit_url: metadata
 metadata_tabs:
   - scope: national
