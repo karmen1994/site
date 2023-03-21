@@ -191,6 +191,8 @@ menu:
   - path: /news
     translation_key: menu.updates
     dropdown: []
+  - path: prueba/
+    translation_key: My meni item
 metadata_edit_url: metadata
 metadata_tabs:
   - scope: national
